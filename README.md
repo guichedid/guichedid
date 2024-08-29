@@ -1,4 +1,4 @@
-# Guilherme Chedid
+<h1 align="center"> Guilherme Chedid </h1>
 
 -Olá, sou Guilherme Chedid e esse é o meu repositório, sejam bem vindos.
 -Tenho 20 anos e decidi me aventurar nessa área pois gosto bastante de informática.
