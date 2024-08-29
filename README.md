@@ -1,7 +1,7 @@
 <h1 align="center"> Guilherme Chedid </h1>
 
 <h3 align="center">Olá, sou Guilherme Chedid e esse é o meu repositório, sejam bem vindos.</h3>
-<h5 align="center">Tenho 20 anos e decidi me aventurar nessa área pois gosto bastante de informática.</h5>
+<h5 align="center">Tenho 20 anos, sou de São Paulo-SP e decidi me aventurar nessa área pois gosto bastante de informática.</h5>
 <h5 align="center">Atualmente curso técnico em desenvolvimento de sistemas no SENAI, com a expectativa de formação em dezembro de 2025. Busco aprender tudo que o curso pode proporcionar já que me identifico com todas (confesso que front-end está um pouco a frente).</h5> 
 <h5 align="center">Sou formado em técnico em mecatrônica (onde me aproximei dessa área de programação) e CAI em assistente administrativo pelo SENAI.</h5>
 
